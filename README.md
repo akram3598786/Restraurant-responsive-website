@@ -25,6 +25,7 @@ I were pursuing front end course from Coursera in that learning duration I built
 > • REACT
 > • HTML
 > • CSS
+> • Bootstrap
 
 ## Tools
 > • VS Code
