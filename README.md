@@ -2,8 +2,8 @@
 It's a web application for a restaurant. User can see available meal and price by menu. Also can check locations and available of service area on map.Responsive Website CSS Grid and Bootstrap
 
 ## ** The Idea**
-<br>
-I were pursuing front end course coursera in that learning duration I built this project whichis fully responsive. you can find complete details below :
+
+I were pursuing front end course from Coursera in that learning duration I built this project which is fully responsive. you can find complete details below :
 
 
 # Home Page 👇
